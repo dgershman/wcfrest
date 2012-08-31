@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\daniel.gershman\Desktop\Sandbox\Project Barracuda - AMPDLQ" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="12/29/2010 17:14:38" />
+    <file relUrl="Asset.svc" publishTime="03/16/2010 16:22:40" />
+    <file relUrl="Template.svc" publishTime="05/27/2010 16:23:34" />
+    <file relUrl="Inr.svc" publishTime="10/02/2010 14:32:17" />
+    <file relUrl="bin/MediaPanelFeeds.dll" publishTime="03/03/2011 15:47:43" />
+    <file relUrl="documentation/Story.html" publishTime="11/22/2010 00:07:11" />
+    <file relUrl="templates/RolexCustom.xslt" publishTime="01/13/2011 16:41:44" />
+    <file relUrl="bin/Syndication.dll" publishTime="03/03/2011 14:57:34" />
+    <file relUrl="Dictionary.svc" publishTime="03/24/2010 23:21:49" />
+    <file relUrl="MediaPanelDataSubmit.aspx" publishTime="01/10/2011 23:06:17" />
+    <file relUrl="bin/Syndication.pdb" publishTime="03/03/2011 14:57:34" />
+    <file relUrl="Embed.svc" publishTime="03/25/2010 00:53:06" />
+    <file relUrl="Story.svc" publishTime="03/16/2010 16:23:41" />
+    <file relUrl="bin/Microsoft.ServiceModel.Web.dll" publishTime="03/12/2009 17:29:54" />
+    <file relUrl="bin/MediaPanelFeeds.pdb" publishTime="03/03/2011 15:47:43" />
+  </publishProfile>
+</publishData>

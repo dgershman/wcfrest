@@ -1,0 +1,12 @@
+E:\Labs\Lab1\RESTService\Lab1Service\bin\Lab1Service.dll
+E:\Labs\Lab1\RESTService\Lab1Service\bin\Lab1Service.pdb
+E:\Labs\Lab1\RESTService\Lab1Service\bin\Microsoft.ServiceModel.Web.dll
+E:\Labs\Lab1\RESTService\Lab1Service\bin\RESTHandler.dll
+E:\Labs\Lab1\RESTService\Lab1Service\bin\Microsoft.ServiceModel.Web.pdb
+E:\Labs\Lab1\RESTService\Lab1Service\bin\RESTHandler.pdb
+E:\Labs\Lab1\RESTService\Lab1Service\obj\Release\ResolveAssemblyReference.cache
+E:\Labs\Lab1\RESTService\Lab1Service\obj\Release\Lab1Service.dll
+E:\Labs\Lab1\RESTService\Lab1Service\obj\Release\Lab1Service.pdb
+E:\Labs\Lab1\RESTService\Lab1Service\bin\ComponentArt.Web.UI.dll
+E:\Labs\Lab1\RESTService\Lab1Service\bin\Syndication.dll
+E:\Labs\Lab1\RESTService\Lab1Service\bin\Syndication.pdb

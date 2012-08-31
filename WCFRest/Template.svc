@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="versomas.net.services.Template" CodeBehind="Template.svc.cs" %>

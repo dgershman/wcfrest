@@ -1,0 +1,8 @@
+C:\Users\dgershman\Desktop\WCFRest\WCFRest\obj\Debug\WCFRest.csprojResolveAssemblyReference.cache
+C:\Users\dgershman\Desktop\WCFRest\WCFRest\bin\WCFRest.dll
+C:\Users\dgershman\Desktop\WCFRest\WCFRest\bin\WCFRest.pdb
+C:\Users\dgershman\Desktop\WCFRest\WCFRest\bin\Syndication.dll
+C:\Users\dgershman\Desktop\WCFRest\WCFRest\bin\Microsoft.Http.dll
+C:\Users\dgershman\Desktop\WCFRest\WCFRest\bin\Syndication.pdb
+C:\Users\dgershman\Desktop\WCFRest\WCFRest\obj\Debug\WCFRest.dll
+C:\Users\dgershman\Desktop\WCFRest\WCFRest\obj\Debug\WCFRest.pdb

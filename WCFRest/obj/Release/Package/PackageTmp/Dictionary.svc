@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="tnm.net.services.Dictionary" CodeBehind="Dictionary.svc.cs" %>

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="tnm.net.services.Embed" CodeBehind="Embed.svc.cs" %>

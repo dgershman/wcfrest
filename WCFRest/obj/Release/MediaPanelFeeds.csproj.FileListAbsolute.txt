@@ -1,0 +1,7 @@
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\MediaPanelFeeds\MediaPanelFeeds\bin\MediaPanelFeeds.dll
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\MediaPanelFeeds\MediaPanelFeeds\bin\MediaPanelFeeds.pdb
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\MediaPanelFeeds\MediaPanelFeeds\bin\Syndication.dll
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\MediaPanelFeeds\MediaPanelFeeds\bin\Syndication.pdb
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\MediaPanelFeeds\MediaPanelFeeds\obj\Release\ResolveAssemblyReference.cache
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\MediaPanelFeeds\MediaPanelFeeds\obj\Release\MediaPanelFeeds.dll
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\MediaPanelFeeds\MediaPanelFeeds\obj\Release\MediaPanelFeeds.pdb

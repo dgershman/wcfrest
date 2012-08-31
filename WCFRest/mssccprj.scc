@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[Lab1Service.csproj]
+SCC_Aux_Path = "\\tnm-s-vss1\vss"
+SCC_Project_Name = "$/Public/EngineeringTools/Labs/Icarus/FeedLab2/RESTService/Lab1Service", JCQPCAAA
+
+[MediaPanelFeeds.csproj]
+SCC_Aux_Path = "\\sd-s-vss1\vss"
+SCC_Project_Name = "$/Public/Projects/Surf/MediaPanelFeeds/Application/MediaPanelFeeds/MediaPanelFeeds", ZHISCAAA

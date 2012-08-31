@@ -1,0 +1,8 @@
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\Syndication\bin\Release\Syndication.dll
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\Syndication\bin\Release\Syndication.pdb
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\Syndication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\Syndication\obj\Release\Syndication.dll
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\Syndication\obj\Release\Syndication.pdb
+C:\Users\daniel.gershman\Documents\My Projects\Syndication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\daniel.gershman\Documents\My Projects\Syndication\obj\Release\Syndication.dll
+C:\Users\daniel.gershman\Documents\My Projects\Syndication\obj\Release\Syndication.pdb

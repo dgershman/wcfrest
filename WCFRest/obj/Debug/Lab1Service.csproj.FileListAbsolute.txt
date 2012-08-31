@@ -1,0 +1,23 @@
+E:\Labs\Lab1\RESTService\Lab1Service\bin\Lab1Service.dll
+E:\Labs\Lab1\RESTService\Lab1Service\bin\Lab1Service.pdb
+E:\Labs\Lab1\RESTService\Lab1Service\bin\Microsoft.ServiceModel.Web.dll
+E:\Labs\Lab1\RESTService\Lab1Service\bin\Microsoft.ServiceModel.Web.pdb
+E:\Labs\Lab1\RESTService\Lab1Service\obj\Debug\ResolveAssemblyReference.cache
+E:\Labs\Lab1\RESTService\Lab1Service\obj\Debug\Lab1Service.dll
+E:\Labs\Lab1\RESTService\Lab1Service\obj\Debug\Lab1Service.pdb
+E:\Labs\Lab1\RESTService\Lab1Service\bin\RESTHandler.dll
+E:\Labs\Lab1\RESTService\Lab1Service\bin\RESTHandler.pdb
+E:\Labs\Lab1\RESTService\Lab1Service\bin\ComponentArt.Web.UI.dll
+E:\Labs\Lab1\RESTService\Lab1Service\bin\Syndication.dll
+E:\Labs\Lab1\RESTService\Lab1Service\bin\Syndication.pdb
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Lab1\RESTService\Lab1Service\bin\Lab1Service.dll
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Lab1\RESTService\Lab1Service\bin\Lab1Service.pdb
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Lab1\RESTService\Lab1Service\bin\Microsoft.ServiceModel.Web.dll
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Lab1\RESTService\Lab1Service\bin\RESTHandler.dll
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Lab1\RESTService\Lab1Service\bin\Syndication.dll
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Lab1\RESTService\Lab1Service\bin\Microsoft.ServiceModel.Web.pdb
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Lab1\RESTService\Lab1Service\bin\RESTHandler.pdb
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Lab1\RESTService\Lab1Service\bin\Syndication.pdb
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Lab1\RESTService\Lab1Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Lab1\RESTService\Lab1Service\obj\Debug\Lab1Service.dll
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Lab1\RESTService\Lab1Service\obj\Debug\Lab1Service.pdb

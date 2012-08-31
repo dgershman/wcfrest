@@ -1,0 +1,16 @@
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\Syndication\bin\Debug\Syndication.dll
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\Syndication\bin\Debug\Syndication.pdb
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\Syndication\bin\Debug\Microsoft.Http.dll
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\Syndication\bin\Debug\Microsoft.Http.pdb
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\Syndication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\Syndication\obj\Debug\Syndication.dll
+C:\Users\daniel.gershman\Documents\My Projects\MediaPanelFeeds\Application\Syndication\obj\Debug\Syndication.pdb
+C:\Users\daniel.gershman\Documents\My Projects\Syndication\bin\Debug\Syndication.dll
+C:\Users\daniel.gershman\Documents\My Projects\Syndication\bin\Debug\Syndication.pdb
+C:\Users\daniel.gershman\Documents\My Projects\Syndication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel.gershman\Documents\My Projects\Syndication\obj\Debug\Syndication.dll
+C:\Users\daniel.gershman\Documents\My Projects\Syndication\obj\Debug\Syndication.pdb
+C:\Users\dgershman\Desktop\WCFRest\Syndication\bin\Debug\Syndication.dll
+C:\Users\dgershman\Desktop\WCFRest\Syndication\bin\Debug\Syndication.pdb
+C:\Users\dgershman\Desktop\WCFRest\Syndication\obj\Debug\Syndication.dll
+C:\Users\dgershman\Desktop\WCFRest\Syndication\obj\Debug\Syndication.pdb
